@@ -36,14 +36,6 @@
         <img src="../assets/articulo31.webp" alt="Análisis de Datos" class="w-full h-auto object-cover rounded-lg shadow-md">
       </div>
 
-      <h2 class="text-3xl font-semibold mb-4">3. Casos de Éxito de Análisis de Datos en Empresas:</h2>
-      <ul class="list-disc list-inside text-lg leading-relaxed mb-8">
-        <li><strong>[Caso de Éxito 1]:</strong> Describe cómo una empresa utilizó el análisis de datos para mejorar la segmentación de clientes y aumentar las ventas.</li>
-        <li><strong>[Caso de Éxito 2]:</strong> Explica cómo otra empresa utilizó el análisis de datos para optimizar su cadena de suministro y reducir costos.</li>
-        <li><strong>[Caso de Éxito 3]:</strong> Presenta un ejemplo de cómo una empresa utilizó el análisis de datos para predecir la demanda de productos y mejorar la gestión de inventario.</li>
-      </ul>
-
-
       <h2 class="text-3xl font-semibold mb-4">4. Herramientas Clave para el Análisis de Datos:</h2>
       <ul class="list-disc list-inside text-lg leading-relaxed mb-8">
         <li><strong>Google Analytics:</strong> Herramienta gratuita de análisis web que proporciona información sobre el tráfico, el comportamiento de los usuarios y las conversiones en tu sitio web.</li>
