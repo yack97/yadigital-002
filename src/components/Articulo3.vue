@@ -33,7 +33,7 @@
 
       <!-- Primera imagen -->
       <div class="mb-8">
-        <img src="src/assets/articulo3-1.webp" alt="Análisis de Datos" class="w-full h-auto object-cover rounded-lg shadow-md">
+        <img src="../assets/articulo31.webp" alt="Análisis de Datos" class="w-full h-auto object-cover rounded-lg shadow-md">
       </div>
 
       <h2 class="text-3xl font-semibold mb-4">3. Casos de Éxito de Análisis de Datos en Empresas:</h2>

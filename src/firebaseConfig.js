@@ -4,14 +4,14 @@ import { getAnalytics } from "firebase/analytics";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyDivzkpFhToMm6hf8o-92uhghng7K11pxY",
-    authDomain: "yadigital-002.firebaseapp.com",
-    projectId: "yadigital-002",
-    storageBucket: "yadigital-002.appspot.com",
-    messagingSenderId: "269506661476",
-    appId: "1:269506661476:web:9d2871fa81d68886d3a371",
-    measurementId: "G-BKFDW1MFFW"
-  };
+  apiKey: "AIzaSyC_-Q-X27unfJX9zKxaHlon3LIL8IVRU5A",
+  authDomain: "roninmez-001.firebaseapp.com",
+  projectId: "roninmez-001",
+  storageBucket: "roninmez-001.appspot.com",
+  messagingSenderId: "947987712112",
+  appId: "1:947987712112:web:a0123aa15c2047fd9accb5",
+  measurementId: "G-9PT72JDP8E"
+};
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
