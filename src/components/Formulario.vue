@@ -55,6 +55,8 @@
 <script>
 import { db } from '../firebaseConfig';
 import { collection, addDoc, Timestamp } from 'firebase/firestore';
+import Swal from 'sweetalert2';
+
 
 export default {
   data() {
@@ -91,6 +93,12 @@ export default {
           email: this.email,
           mensaje: this.mensaje,
           createdAt: Timestamp.now(), // Marca de tiempo actual
+        });
+
+        Swal.fire({
+          icon: 'success',
+          title: 'Formulario enviado',
+          text: 'Su formulario ha sido enviado con éxito. nos pondremos en contacto a la brevedad',
         });
 
         console.log('Formulario guardado');

@@ -27,10 +27,10 @@
               Av Cabildo 2553
             </li>
             <li class="mb-4">
-              <p>Celular: 11-3487-6862</p>
+              <p>Celular: +54 9 11-3487-6862</p>
             </li>
             <li class="mb-4">
-              <p>info@roninmez.net</p>
+              <p></p>
             </li>
           </ul>
         </div>
