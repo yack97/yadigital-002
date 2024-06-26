@@ -19,7 +19,7 @@
             <img src="../assets/premium_photo-1673429738836-b3581b1b6636.jpeg"
               alt="Desarrollo web, ecommerce, CRUD, página de pagos" class="object-cover w-full h-full" />
           </div>
-          <h3 class="text-2xl font-semibold text-center text-gray-900 mb-2 sm:text-3xl">Ecommerce simple</h3>
+          <h3 class="text-2xl font-semibold text-center text-gray-900 mb-2 sm:text-3xl">E-commerce</h3>
           <p class="text-sm leading-normal text-gray-600">
             Nuestro eCommerce simple, desarrollado en Vue.js, demuestra nuestra experiencia en la creación de tiendas
             online eficientes y escalables. Implementamos un sistema CRUD (Crear, Leer, Actualizar, Eliminar) para una
@@ -49,7 +49,7 @@
             <img src="../assets/premium_photo-1683972509783-da5a74795bb3.jpeg" alt="Frontend Performance"
               class="object-cover w-full h-full" />
           </div>
-          <h3 class="text-2xl font-semibold text-center text-gray-900 mb-2 sm:text-3xl">Red social simple</h3>
+          <h3 class="text-2xl font-semibold text-center text-gray-900 mb-2 sm:text-3xl">Red social</h3>
           <p class="text-sm leading-normal text-gray-600 sm:block">
             Nuestra réplica de red social, desarrollada en Vue.js, muestra nuestro dominio de las funcionalidades
             básicas de una plataforma social. Implementamos características como la creación de perfiles de usuario,

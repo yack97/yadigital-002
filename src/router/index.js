@@ -1,4 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
+import DetalleArticulo from '../views/DetalleArticulo.vue';
+
 
 // Define las rutas de tu aplicación
 const routes = [
@@ -6,13 +8,21 @@ const routes = [
     path: '/',
     name: 'home',
     component: () => import('../views/HomeView.vue')
-
   },
-
   {
     path: '/blog',
     name: 'blog',
     component: () => import('../views/BlogView.vue')
+  },
+  {
+  path: '/login',
+  name: 'login',
+  component: () => import('../views/LoginView.vue')
+  },
+  {
+  path: '/admin',
+  name: 'AdminView',
+  component: () => import('../views/AdminView.vue')
   },
   {
     path: '/presupuesto',
@@ -20,24 +30,10 @@ const routes = [
     component: () => import('../views/Presupuesto.vue')
   },
   {
-    path: '/Articulo1',
-    name: 'Articulo1',
-    component: () => import('../views/Articulo1View.vue')
-  },
-  {
-    path: '/Articulo2',
-    name: 'Articulo2',
-    component: () => import('../views/Articulo2View.vue')
-  },
-  {
-    path: '/Articulo3',
-    name: 'Articulo3',
-    component: () => import('../views/Articulo3View.vue')
-  },
-  {
-    path: '/Articulo4',
-    name: 'Articulo4',
-    component: () => import('../views/Articulo4View.vue')
+    path: '/articulo/:id',
+    name: 'DetalleArticulo',
+    component: DetalleArticulo,
+    props: true // Habilitar paso de props a través de la ruta
   }
 ]
 
