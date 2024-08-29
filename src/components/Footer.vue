@@ -4,14 +4,14 @@
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <div>
           <h2 class="mb-6 text-lg font-semibold text-gray-900 text-center">
-            Mapa del sitio
+            Mapa del Sitio
           </h2>
           <ul class="text-gray-500 dark:text-gray-800 font-medium text-center">
             <li class="mb-4">
               <router-link to="/">Página Principal</router-link>
             </li>
             <li class="mb-4">
-              <router-link to="/Presupuesto">Soliciar presupuesto</router-link>
+              <router-link to="/Presupuesto">Solicitar Presupuesto</router-link>
             </li>
             <li>
               <router-link to="/blog">Blog</router-link>
@@ -19,35 +19,32 @@
           </ul>
         </div>
         <div>
-          <h2 class="mb-6 text-lg font-semibold text-gray-900  text-center">
+          <h2 class="mb-6 text-lg font-semibold text-gray-900 text-center">
             Información de Contacto
           </h2>
           <ul class="text-gray-500 dark:text-gray-800 font-medium text-center">
-            <li class="mb-4">
-              Av Cabildo 2553
-            </li>
+            <li class="mb-4">Av. Cabildo 2553</li>
             <li class="mb-4">
               <p>Celular: +54 9 11-3487-6862</p>
             </li>
             <li class="mb-4">
-              <p></p>
+              <p>Correo electrónico: yadirp614@gmail.com</p>
             </li>
           </ul>
         </div>
         <div>
           <div class="flex justify-center md:justify-start">
             <router-link to="/">
-
-              <img src="../assets/logo-roninmez.svg" class="h-24 md:h-32"
-                alt="RONINMEZ - Soluciones digitales en desarrollo web y análisis de datos, posicionamiento SEO" />
+              <img src="../assets/logo-roninmez.svg" class="h-24 md:h-32" 
+                   alt="RONINMEZ - Soluciones digitales en desarrollo web y análisis de datos, posicionamiento SEO" />
             </router-link>
           </div>
           <div class="flex justify-center mt-4 space-x-4">
-            <a href="https://www.linkedin.com/in/yadir-acuna-pinzon/" target="_blank" rel="noopener">
-              <img src="../assets/icons8-linkedin.svg" alt="LinkedIn de roninmez" class="w-6 h-6" />
+            <a href="https://www.linkedin.com/in/yadir-acuna-pinzon/" target="_blank" rel="noopener" aria-label="Perfil de LinkedIn de RONINMEZ">
+              <img src="../assets/icons8-linkedin.svg" alt="Icono de LinkedIn" class="w-6 h-6" />
             </a>
-            <a href="https://github.com/yack97" target="_blank" rel="noopener">
-              <img src="../assets/icons8-github.svg" alt="GitHub de roninmez" class="w-6 h-6" />
+            <a href="https://github.com/yack97" target="_blank" rel="noopener" aria-label="Perfil de GitHub de RONINMEZ">
+              <img src="../assets/icons8-github.svg" alt="Icono de GitHub" class="w-6 h-6" />
             </a>
           </div>
         </div>

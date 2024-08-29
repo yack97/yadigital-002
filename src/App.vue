@@ -1,11 +1,11 @@
 <script setup>
-import Navbar from './components/Navbar.vue'
+import NavbarBlog from './components/NavbarBlog.vue'
 
 </script>
 
 <template>
   <header>
-    <Navbar />
+    <NavbarBlog />
     
   </header>
 

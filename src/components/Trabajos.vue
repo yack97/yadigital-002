@@ -10,7 +10,7 @@
 
     <div class="container mx-auto">
       <h2 class="text-4xl font-bold text-center text-gray-900 mb-8">
-        <span class="shadow-lg underline">Proyectos de muestra</span>
+        <span class="shadow-lg underline">Proyectos</span>
       </h2>
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-4">
         <a href="https://carrito-compras-1-1.netlify.app"
@@ -21,41 +21,40 @@
           </div>
           <h3 class="text-2xl font-semibold text-center text-gray-900 mb-2 sm:text-3xl">E-commerce</h3>
           <p class="text-sm leading-normal text-gray-600">
-            Nuestro eCommerce simple, desarrollado en Vue.js, demuestra nuestra experiencia en la creación de tiendas
+            Nuestro eCommerce simple, desarrollado en React.js, demuestra nuestra experiencia en la creación de tiendas
             online eficientes y escalables. Implementamos un sistema CRUD (Crear, Leer, Actualizar, Eliminar) para una
             gestión ágil de productos, integramos una API de terceros para obtener datos de productos en tiempo real y
             diseñamos una interfaz intuitiva para una experiencia de compra fluida. Este proyecto es un ejemplo de cómo
             podemos ayudarte a lanzar tu tienda online de forma rápida y efectiva.
           </p>
         </a>
-        <a href="https://app-clima-1-2.netlify.app"
-          class="relative flex flex-col rounded-md border border-gray-200 bg-white p-2.5 hover:border-gray-400 sm:rounded-lg sm:p-5 shadow-lg">
+        <a href="https://immersion-004.firebaseapp.com/"
+          class="relative flex flex-col rounded-md border border-gray-200 bg-white p-2.5 hover:border-gray-400 sm:rounded-lg sm:p-5 shadow-lg transition duration-300 ease-in-out">
           <div class="h-48 mb-4 rounded-full overflow-hidden border-4 border-gray-200 shadow-md">
-            <img src="../assets/pexels-googledeepmind-17485680.jpg" alt="Frontend Performance"
-              class="object-cover w-full h-full" />
+            <img src="../assets/logoInmersion.webp"
+              alt="Desarrollo de Landing Page para Marketing Digital" class="object-cover w-full h-full" />
           </div>
-          <h3 class="text-2xl font-semibold text-center text-gray-900 mb-2 sm:text-3xl">App del Clima</h3>
+          <h3 class="text-2xl font-semibold text-center text-gray-900 mb-2 sm:text-3xl">Landing Page para Immersion</h3>
           <p class="text-sm leading-normal text-gray-600 sm:block">
-            Nuestra aplicación del clima, construida con Vue.js, utiliza APIs meteorológicas para obtener datos precisos
-            y actualizados sobre el clima en tiempo real. Implementamos lógica para identificar y mostrar diferentes
-            tipos de clima, como soleado, lluvioso o nublado, y ofrecemos una interfaz amigable y visualmente atractiva.
-            Este proyecto demuestra nuestra capacidad para crear aplicaciones útiles e informativas que mejoran la vida
-            de los usuarios.
+            Descubre cómo estamos desarrollando una landing page para uno de nuestros clientes, Immersion. Esta página
+            ofrecerá servicios de marketing digital, producción audiovisual, diseño y más.
+            Nuestro enfoque se basa en una colaboración continua, utilizando una estructura atómica implementada en
+            Firebase y Vue.js. Este trabajo refleja nuestra dedicación a proporcionar soluciones personalizadas que se
+            adaptan a las necesidades de nuestros clientes.
           </p>
         </a>
-        <a href="https://red-social-basica.netlify.app/"
-          class="relative flex flex-col rounded-md border border-gray-200 bg-white p-2.5 hover:border-gray-400 sm:rounded-lg sm:p-5 shadow-lg">
+        <a href="https://zenryoku-a4c46.firebaseapp.com/"
+          class="relative flex flex-col rounded-md border border-gray-200 bg-white p-2.5 hover:border-gray-400 sm:rounded-lg sm:p-5 shadow-lg transition duration-300 ease-in-out">
           <div class="h-48 mb-4 rounded-full overflow-hidden border-4 border-gray-200 shadow-md">
-            <img src="../assets/premium_photo-1683972509783-da5a74795bb3.jpeg" alt="Frontend Performance"
-              class="object-cover w-full h-full" />
+            <img src="../assets/logoZenryoku.webp"
+              alt="Servicios de Superación Personal en Zenryoku" class="object-cover w-full h-full" />
           </div>
-          <h3 class="text-2xl font-semibold text-center text-gray-900 mb-2 sm:text-3xl">Red social</h3>
+          <h3 class="text-2xl font-semibold text-center text-gray-900 mb-2 sm:text-3xl">Zenryoku</h3>
           <p class="text-sm leading-normal text-gray-600 sm:block">
-            Nuestra réplica de red social, desarrollada en Vue.js, muestra nuestro dominio de las funcionalidades
-            básicas de una plataforma social. Implementamos características como la creación de perfiles de usuario,
-            publicación de mensajes, interacción con publicaciones (me gusta, comentarios) y visualización de feeds
-            personalizados. Este proyecto es un ejemplo de cómo podemos construir soluciones sociales escalables y
-            personalizadas para conectar a las personas.
+            En este proyecto, estamos apoyando a un emprendedor en su sueño de ofrecer servicios de superación personal
+            y entrenamiento físico. Estamos creando una plataforma que centraliza todos sus clientes, brindando un
+            acompañamiento continuo, permitiendo la revisión y actualización de datos, y facilitando que ellos puedan
+            visualizar su crecimiento a medida que trabajan con él.
           </p>
         </a>
       </div>
